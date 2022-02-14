@@ -1,8 +1,9 @@
 # multi-mode resource-constrained project scheduling
 
 This repository will soon provide the implementation which was used to generate the computational results presented in 
-_Continuous-Time Formulations for Project Scheduling With Multiple Modes_ (currently under review) by <a href="https://orcid.org/0000-0002-8977-9414">David
+_Continuous-Time Formulations for Multi-Mode Project Scheduling_ by <a href="https://orcid.org/0000-0002-8977-9414">David
 Sayah<img  src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.3em;"></a>.
+The paper is currently under review.
 
 ## Optimization Tools
 
