@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.optsol.jdecor</groupId>
-    <artifactId>jdecor-pojo-template</artifactId>
-    <version>0.0.2</version>
+    <groupId>org.optsol</groupId>
+    <artifactId>project-scheduling-code</artifactId>
+    <version>0.1.0</version>
 
     <!-- Properties -->
     <properties>
@@ -20,29 +20,13 @@
 
         <jdecor-version>0.2.1</jdecor-version>
 
-        <junit-jupiter-version>5.8.2</junit-jupiter-version>
+        <jackson.version>2.13.1</jackson.version>
+        <jackson-dataformat-yaml-version>2.13.1</jackson-dataformat-yaml-version>
+        <junit-jupiter-api-version>5.8.2</junit-jupiter-api-version>
         <lombok-version>1.18.22</lombok-version>
-        <slf4j-version>1.7.32</slf4j-version>
+        <slf4j-version>1.7.35</slf4j-version>
+        <jgrapht-core-version>1.5.1</jgrapht-core-version>
     </properties>
-
-    <developers>
-        <developer>
-            <name>Philipp Fath</name>
-            <email>philipp.fath@optimal-solution.org</email>
-            <organization>OPTIMAL SOLUTION</organization>
-            <organizationUrl>https://www.optimal-solution.org</organizationUrl>
-        </developer>
-        <developer>
-            <name>David Sayah</name>
-            <email>david.sayah@optimal-solution.org</email>
-            <organization>OPTIMAL SOLUTION</organization>
-            <organizationUrl>https://www.optimal-solution.org</organizationUrl>
-        </developer>
-    </developers>
-
-    <name>jDecOR Pojo Template</name>
-    <description>...a good point to start your optimization project</description>
-    <url>https://github.com/OPTIMAL-SOLUTION-org</url>
 
     <dependencies>
         <dependency>
@@ -61,7 +45,7 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
-            <version>${junit-jupiter-version}</version>
+            <version>${junit-jupiter-api-version}</version>
             <scope>test</scope>
         </dependency>
 
