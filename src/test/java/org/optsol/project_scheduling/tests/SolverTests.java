@@ -1,4 +1,4 @@
-package org.optsol.jdecor_pojo_template.tests;
+package org.optsol.project_scheduling.tests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.fail;
@@ -8,11 +8,11 @@ import org.junit.jupiter.api.Test;
 import org.optsol.jdecor.core.SolutionState;
 import org.optsol.jdecor.ortools.OrtoolsModel;
 import org.optsol.jdecor.ortools.SolverEngine;
-import org.optsol.jdecor_pojo_template.model.Model;
-import org.optsol.jdecor_pojo_template.model.constants.Constants;
-import org.optsol.jdecor_pojo_template.solver.Solution;
-import org.optsol.jdecor_pojo_template.solver.Solver;
-import org.optsol.jdecor_pojo_template.utils.Utils;
+import org.optsol.project_scheduling.model.Model;
+import org.optsol.project_scheduling.model.constants.Constants;
+import org.optsol.project_scheduling.solver.Solution;
+import org.optsol.project_scheduling.solver.Solver;
+import org.optsol.project_scheduling.utils.Utils;
 
 @Slf4j
 public class SolverTests {

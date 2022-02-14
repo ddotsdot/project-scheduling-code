@@ -1,10 +1,10 @@
-package org.optsol.jdecor_pojo_template.utils;
+package org.optsol.project_scheduling.utils;
 
 import java.util.List;
 import java.util.Map;
 import lombok.extern.slf4j.Slf4j;
-import org.optsol.jdecor_pojo_template.model.constants.Constants;
-import org.optsol.jdecor_pojo_template.solver.Solution;
+import org.optsol.project_scheduling.model.constants.Constants;
+import org.optsol.project_scheduling.solver.Solution;
 
 @Slf4j
 public final class Utils {

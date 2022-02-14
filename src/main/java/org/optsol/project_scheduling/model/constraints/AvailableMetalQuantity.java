@@ -1,4 +1,4 @@
-package org.optsol.jdecor_pojo_template.model.constraints;
+package org.optsol.project_scheduling.model.constraints;
 
 import com.google.ortools.linearsolver.MPConstraint;
 import com.google.ortools.linearsolver.MPSolver;
@@ -7,8 +7,8 @@ import java.util.Collection;
 import java.util.HashSet;
 import org.optsol.jdecor.core.AbstractVariableManager;
 import org.optsol.jdecor.ortools.AbstractOrtoolsConstraintManager;
-import org.optsol.jdecor_pojo_template.model.constants.Constants;
-import org.optsol.jdecor_pojo_template.model.variables.Variables;
+import org.optsol.project_scheduling.model.constants.Constants;
+import org.optsol.project_scheduling.model.variables.Variables;
 
 public class AvailableMetalQuantity
     extends AbstractOrtoolsConstraintManager<Constants> {

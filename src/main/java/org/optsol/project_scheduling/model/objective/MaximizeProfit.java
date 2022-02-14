@@ -1,12 +1,12 @@
-package org.optsol.jdecor_pojo_template.model.objective;
+package org.optsol.project_scheduling.model.objective;
 
 import com.google.ortools.linearsolver.MPObjective;
 import com.google.ortools.linearsolver.MPSolver;
 import com.google.ortools.linearsolver.MPVariable;
 import org.optsol.jdecor.core.AbstractVariableManager;
 import org.optsol.jdecor.ortools.AbstractOrtoolsObjectiveManager;
-import org.optsol.jdecor_pojo_template.model.constants.Constants;
-import org.optsol.jdecor_pojo_template.model.variables.Variables;
+import org.optsol.project_scheduling.model.constants.Constants;
+import org.optsol.project_scheduling.model.variables.Variables;
 
 public class MaximizeProfit extends AbstractOrtoolsObjectiveManager<Constants> {
 

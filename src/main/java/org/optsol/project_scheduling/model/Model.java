@@ -1,4 +1,4 @@
-package org.optsol.jdecor_pojo_template.model;
+package org.optsol.project_scheduling.model;
 
 import com.google.ortools.linearsolver.MPSolver;
 import com.google.ortools.linearsolver.MPVariable;
@@ -9,10 +9,10 @@ import org.optsol.jdecor.core.IObjectiveManager;
 import org.optsol.jdecor.ortools.AbstractOrtoolsModelFactory;
 import org.optsol.jdecor.ortools.OrtoolsVariableManager;
 import org.optsol.jdecor.ortools.SolverEngine;
-import org.optsol.jdecor_pojo_template.model.constants.Constants;
-import org.optsol.jdecor_pojo_template.model.constraints.AvailableMetalQuantity;
-import org.optsol.jdecor_pojo_template.model.objective.MaximizeProfit;
-import org.optsol.jdecor_pojo_template.model.variables.Variables;
+import org.optsol.project_scheduling.model.constants.Constants;
+import org.optsol.project_scheduling.model.constraints.AvailableMetalQuantity;
+import org.optsol.project_scheduling.model.objective.MaximizeProfit;
+import org.optsol.project_scheduling.model.variables.Variables;
 
 public class Model extends AbstractOrtoolsModelFactory<Constants> {
 

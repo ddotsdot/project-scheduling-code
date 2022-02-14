@@ -1,4 +1,4 @@
-package org.optsol.jdecor_pojo_template.solver;
+package org.optsol.project_scheduling.solver;
 
 import org.optsol.jdecor.core.ISolution;
 

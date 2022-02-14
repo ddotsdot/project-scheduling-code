@@ -1,9 +1,9 @@
-package org.optsol.jdecor_pojo_template.solver;
+package org.optsol.project_scheduling.solver;
 
 import org.optsol.jdecor.ortools.OrtoolsSolver;
 import org.optsol.jdecor.ortools.SolverEngine;
-import org.optsol.jdecor_pojo_template.model.Model;
-import org.optsol.jdecor_pojo_template.model.constants.Constants;
+import org.optsol.project_scheduling.model.Model;
+import org.optsol.project_scheduling.model.constants.Constants;
 
 public class Solver
     extends OrtoolsSolver<Constants, Solution> {

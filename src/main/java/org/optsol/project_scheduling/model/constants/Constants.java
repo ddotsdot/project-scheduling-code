@@ -1,4 +1,4 @@
-package org.optsol.jdecor_pojo_template.model.constants;
+package org.optsol.project_scheduling.model.constants;
 
 import java.util.List;
 import java.util.Map;
