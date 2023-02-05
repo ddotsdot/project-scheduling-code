@@ -1,16 +1,24 @@
-# multi-mode resource-constrained project scheduling
+# Multi-mode resource-constrained project scheduling
 
-This repository will soon provide the implementation which was used to generate the computational results presented in 
-_Continuous-Time Formulations for Multi-Mode Project Scheduling_ by <a href="https://orcid.org/0000-0002-8977-9414">David
-Sayah<img  src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.3em;"></a>.
-The paper is currently under review.
+This repository provides the implementation which was used to generate the computational results presented in the paper
+> __*Continuous-time formulations for multi-mode project scheduling*__ [![DOI:10.1007/978-3-031-08623-6_51](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.cor.2023.106147&color=blue)](https://doi.org/10.1016/j.cor.2023.106147)
+ 
+ by <a href="https://orcid.org/0000-0002-8977-9414">me<img  src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-left:.3em;"></a>.
+
+Anyone can __download__ the published article for __free__ by  clicking the link 
+
+> [https://authors.elsevier.com/a/1gTYX15N8SNAWo](https://authors.elsevier.com/a/1gTYX15N8SNAWo)
+
+before March 14, 2023. 
+
+A preprint version is also available on [arxiv.org](https://arxiv.org/). [![arXiv](https://img.shields.io/badge/arXiv-2301.04700-b31b1b.svg)](http://arxiv.org/abs/2301.04700)
 
 ## Optimization Tools
 
-* __*jDecOR*__ ([0.2.1](https://maven.optimal-solution.org/service/rest/repository/browse/releases/org/optsol/jdecor/)) <br>
+* __*jDecOR*__ ([0.4.0](https://maven.optimal-solution.org/service/rest/repository/browse/releases/org/optsol/jdecor/)) <br>
   This project is based on the [jdecor-pojo-template](https://github.com/OPTIMAL-SOLUTION-org/jdecor-pojo-template). __*jDecOR*__ framework helps to focus on the mathematical formulation and keeps boilerplate of mixed-integer programming at a minimum level.
-* __*Google OR-Tools*__ ([9.2.997](https://developers.google.com/optimization/support/release_notes))
-* __*SCIP*__ ([7.0.1](https://www.scipopt.org/doc-7.0.1/html/))
+* __*Google OR-Tools*__ ([9.3.0](https://developers.google.com/optimization/support/release_notes))
+* __*SCIP*__ ([8.0.0](https://www.scipopt.org/doc-7.0.1/html/))
 
 ## Prerequisites
 
