@@ -1,0 +1,1606 @@
+_card_A: 50
+_b_imk:
+  1:
+    1:
+      1: 70
+    2:
+      1: 70
+    3:
+      1: 60
+  2:
+    1:
+      2: 90
+    2:
+      1: 50
+    3:
+      1: 40
+  3:
+    1:
+      1: 30
+    2:
+      1: 30
+    3:
+      2: 60
+  4:
+    1:
+      2: 50
+    2:
+      2: 30
+    3:
+      2: 20
+  5:
+    1:
+      1: 50
+    2:
+      2: 60
+    3:
+      1: 30
+  6:
+    1:
+      2: 50
+    2:
+      1: 50
+    3:
+      2: 50
+  7:
+    1:
+      2: 20
+    2:
+      2: 10
+    3:
+      1: 70
+  8:
+    1:
+      2: 70
+    2:
+      2: 60
+    3:
+      1: 40
+  9:
+    1:
+      1: 50
+    2:
+      2: 80
+    3:
+      2: 50
+  10:
+    1:
+      1: 80
+    2:
+      1: 50
+    3:
+      2: 30
+  11:
+    1:
+      2: 30
+    2:
+      2: 30
+    3:
+      2: 30
+  12:
+    1:
+      1: 60
+    2:
+      2: 60
+    3:
+      2: 40
+  13:
+    1:
+      2: 90
+    2:
+      2: 80
+    3:
+      2: 80
+  14:
+    1:
+      1: 100
+    2:
+      1: 90
+    3:
+      1: 90
+  15:
+    1:
+      2: 70
+    2:
+      2: 70
+    3:
+      2: 50
+  16:
+    1:
+      1: 80
+    2:
+      1: 50
+    3:
+      1: 40
+  17:
+    1:
+      1: 80
+    2:
+      2: 30
+    3:
+      2: 30
+  18:
+    1:
+      2: 50
+    2:
+      2: 30
+    3:
+      2: 10
+  19:
+    1:
+      2: 60
+    2:
+      1: 10
+    3:
+      1: 10
+  20:
+    1:
+      2: 10
+    2:
+      1: 70
+    3:
+      2: 10
+  21:
+    1:
+      1: 50
+    2:
+      1: 40
+    3:
+      1: 40
+  22:
+    1:
+      2: 90
+    2:
+      2: 80
+    3:
+      1: 40
+  23:
+    1:
+      1: 80
+    2:
+      2: 30
+    3:
+      1: 50
+  24:
+    1:
+      2: 60
+    2:
+      2: 50
+    3:
+      1: 10
+  25:
+    1:
+      2: 50
+    2:
+      1: 30
+    3:
+      2: 30
+  26:
+    1:
+      1: 50
+    2:
+      2: 50
+    3:
+      1: 30
+  27:
+    1:
+      2: 90
+    2:
+      2: 80
+    3:
+      1: 40
+  28:
+    1:
+      2: 50
+    2:
+      2: 50
+    3:
+      1: 30
+  29:
+    1:
+      1: 90
+    2:
+      2: 60
+    3:
+      1: 60
+  30:
+    1:
+      2: 70
+    2:
+      1: 50
+    3:
+      2: 30
+  31:
+    1:
+      1: 70
+    2:
+      2: 30
+    3:
+      2: 10
+  32:
+    1:
+      1: 40
+    2:
+      2: 20
+    3:
+      2: 20
+  33:
+    1:
+      2: 90
+    2:
+      1: 60
+    3:
+      2: 90
+  34:
+    1:
+      1: 100
+    2:
+      2: 80
+    3:
+      2: 60
+  35:
+    1:
+      2: 60
+    2:
+      2: 60
+    3:
+      2: 60
+  36:
+    1:
+      1: 60
+    2:
+      2: 20
+    3:
+      2: 10
+  37:
+    1:
+      2: 70
+    2:
+      2: 70
+    3:
+      2: 60
+  38:
+    1:
+      2: 20
+    2:
+      2: 20
+    3:
+      2: 20
+  39:
+    1:
+      2: 30
+    2:
+      2: 20
+    3:
+      2: 10
+  40:
+    1:
+      2: 100
+    2:
+      1: 90
+    3:
+      1: 90
+  41:
+    1:
+      1: 30
+    2:
+      1: 20
+    3:
+      2: 20
+  42:
+    1:
+      2: 70
+    2:
+      1: 40
+    3:
+      2: 50
+  43:
+    1:
+      2: 60
+    2:
+      1: 50
+    3:
+      2: 60
+  44:
+    1:
+      1: 70
+    2:
+      2: 20
+    3:
+      2: 20
+  45:
+    1:
+      1: 90
+    2:
+      2: 60
+    3:
+      1: 30
+  46:
+    1:
+      1: 80
+    2:
+      1: 80
+    3:
+      1: 80
+  47:
+    1:
+      2: 90
+    2:
+      1: 90
+    3:
+      2: 50
+  48:
+    1:
+      2: 50
+    2:
+      2: 50
+    3:
+      2: 40
+  49:
+    1:
+      2: 60
+    2:
+      1: 60
+    3:
+      1: 60
+  50:
+    1:
+      1: 80
+    2:
+      2: 50
+    3:
+      2: 40
+_w_imk:
+  1:
+    1:
+      2: 4
+    2:
+      2: 3
+    3:
+      1: 2
+  2:
+    1:
+      2: 4
+    2:
+      1: 3
+    3:
+      1: 3
+  3:
+    1:
+      2: 6
+    2:
+      1: 2
+    3:
+      1: 1
+  4:
+    1:
+      2: 4
+    2:
+      1: 7
+    3:
+      2: 2
+  5:
+    1:
+      1: 10
+    2:
+      1: 5
+    3:
+      2: 7
+  6:
+    1:
+      1: 10
+    2:
+      1: 6
+    3:
+      1: 2
+  7:
+    1:
+      1: 9
+    2:
+      2: 3
+    3:
+      2: 1
+  8:
+    1:
+      1: 8
+    2:
+      1: 8
+    3:
+      2: 4
+  9:
+    1:
+      2: 8
+    2:
+      2: 6
+    3:
+      2: 2
+  10:
+    1:
+      1: 6
+    2:
+      1: 4
+    3:
+      2: 3
+  11:
+    1:
+      1: 8
+    2:
+      2: 6
+    3:
+      2: 1
+  12:
+    1:
+      2: 10
+    2:
+      2: 7
+    3:
+      2: 4
+  13:
+    1:
+      2: 8
+    2:
+      1: 7
+    3:
+      2: 5
+  14:
+    1:
+      1: 7
+    2:
+      2: 2
+    3:
+      2: 1
+  15:
+    1:
+      1: 8
+    2:
+      2: 5
+    3:
+      2: 5
+  16:
+    1:
+      2: 10
+    2:
+      1: 1
+    3:
+      1: 1
+  17:
+    1:
+      2: 7
+    2:
+      1: 3
+    3:
+      1: 2
+  18:
+    1:
+      1: 5
+    2:
+      1: 5
+    3:
+      2: 5
+  19:
+    1:
+      1: 1
+    2:
+      2: 3
+    3:
+      2: 2
+  20:
+    1:
+      1: 7
+    2:
+      1: 5
+    3:
+      1: 3
+  21:
+    1:
+      2: 3
+    2:
+      2: 2
+    3:
+      1: 5
+  22:
+    1:
+      2: 8
+    2:
+      2: 7
+    3:
+      2: 3
+  23:
+    1:
+      1: 4
+    2:
+      1: 3
+    3:
+      1: 3
+  24:
+    1:
+      1: 8
+    2:
+      2: 8
+    3:
+      1: 5
+  25:
+    1:
+      2: 7
+    2:
+      2: 4
+    3:
+      1: 2
+  26:
+    1:
+      2: 6
+    2:
+      1: 7
+    3:
+      2: 5
+  27:
+    1:
+      2: 2
+    2:
+      2: 1
+    3:
+      1: 1
+  28:
+    1:
+      2: 2
+    2:
+      1: 3
+    3:
+      1: 1
+  29:
+    1:
+      2: 1
+    2:
+      2: 1
+    3:
+      1: 5
+  30:
+    1:
+      1: 7
+    2:
+      1: 4
+    3:
+      1: 1
+  31:
+    1:
+      2: 6
+    2:
+      2: 5
+    3:
+      2: 3
+  32:
+    1:
+      1: 6
+    2:
+      1: 4
+    3:
+      2: 1
+  33:
+    1:
+      2: 5
+    2:
+      2: 3
+    3:
+      2: 1
+  34:
+    1:
+      2: 6
+    2:
+      1: 6
+    3:
+      2: 5
+  35:
+    1:
+      1: 2
+    2:
+      2: 3
+    3:
+      1: 1
+  36:
+    1:
+      1: 7
+    2:
+      1: 6
+    3:
+      1: 3
+  37:
+    1:
+      1: 9
+    2:
+      2: 3
+    3:
+      1: 7
+  38:
+    1:
+      1: 7
+    2:
+      1: 6
+    3:
+      1: 5
+  39:
+    1:
+      1: 7
+    2:
+      1: 6
+    3:
+      1: 4
+  40:
+    1:
+      2: 8
+    2:
+      2: 6
+    3:
+      1: 2
+  41:
+    1:
+      1: 7
+    2:
+      2: 6
+    3:
+      1: 5
+  42:
+    1:
+      2: 8
+    2:
+      1: 4
+    3:
+      2: 7
+  43:
+    1:
+      1: 1
+    2:
+      1: 1
+    3:
+      2: 7
+  44:
+    1:
+      2: 10
+    2:
+      2: 7
+    3:
+      2: 3
+  45:
+    1:
+      1: 7
+    2:
+      2: 7
+    3:
+      2: 5
+  46:
+    1:
+      2: 3
+    2:
+      2: 2
+    3:
+      2: 1
+  47:
+    1:
+      1: 7
+    2:
+      1: 5
+    3:
+      2: 2
+  48:
+    1:
+      2: 3
+    2:
+      1: 7
+    3:
+      2: 2
+  49:
+    1:
+      1: 9
+    2:
+      1: 7
+    3:
+      1: 3
+  50:
+    1:
+      1: 3
+    2:
+      1: 3
+    3:
+      1: 2
+_B_k:
+  1: 230
+  2: 230
+_W_k:
+  1: 78
+  2: 65
+_M_i:
+  1:
+  - 1
+  - 2
+  - 3
+  2:
+  - 1
+  - 2
+  - 3
+  3:
+  - 1
+  - 2
+  - 3
+  4:
+  - 1
+  - 2
+  - 3
+  5:
+  - 1
+  - 2
+  - 3
+  6:
+  - 1
+  - 2
+  - 3
+  7:
+  - 1
+  - 2
+  - 3
+  8:
+  - 1
+  - 2
+  - 3
+  9:
+  - 1
+  - 2
+  - 3
+  10:
+  - 1
+  - 2
+  - 3
+  11:
+  - 1
+  - 2
+  - 3
+  12:
+  - 1
+  - 2
+  - 3
+  13:
+  - 1
+  - 2
+  - 3
+  14:
+  - 1
+  - 2
+  - 3
+  15:
+  - 1
+  - 2
+  - 3
+  16:
+  - 1
+  - 2
+  - 3
+  17:
+  - 1
+  - 2
+  - 3
+  18:
+  - 1
+  - 2
+  - 3
+  19:
+  - 1
+  - 2
+  - 3
+  20:
+  - 1
+  - 2
+  - 3
+  21:
+  - 1
+  - 2
+  - 3
+  22:
+  - 1
+  - 2
+  - 3
+  23:
+  - 1
+  - 2
+  - 3
+  24:
+  - 1
+  - 2
+  - 3
+  25:
+  - 1
+  - 2
+  - 3
+  26:
+  - 1
+  - 2
+  - 3
+  27:
+  - 1
+  - 2
+  - 3
+  28:
+  - 1
+  - 2
+  - 3
+  29:
+  - 1
+  - 2
+  - 3
+  30:
+  - 1
+  - 2
+  - 3
+  31:
+  - 1
+  - 2
+  - 3
+  32:
+  - 1
+  - 2
+  - 3
+  33:
+  - 1
+  - 2
+  - 3
+  34:
+  - 1
+  - 2
+  - 3
+  35:
+  - 1
+  - 2
+  - 3
+  36:
+  - 1
+  - 2
+  - 3
+  37:
+  - 1
+  - 2
+  - 3
+  38:
+  - 1
+  - 2
+  - 3
+  39:
+  - 1
+  - 2
+  - 3
+  40:
+  - 1
+  - 2
+  - 3
+  41:
+  - 1
+  - 2
+  - 3
+  42:
+  - 1
+  - 2
+  - 3
+  43:
+  - 1
+  - 2
+  - 3
+  44:
+  - 1
+  - 2
+  - 3
+  45:
+  - 1
+  - 2
+  - 3
+  46:
+  - 1
+  - 2
+  - 3
+  47:
+  - 1
+  - 2
+  - 3
+  48:
+  - 1
+  - 2
+  - 3
+  49:
+  - 1
+  - 2
+  - 3
+  50:
+  - 1
+  - 2
+  - 3
+_P_bar:
+- first: 15
+  second: 50
+- first: 16
+  second: 23
+- first: 32
+  second: 39
+- first: 32
+  second: 40
+- first: 32
+  second: 43
+- first: 16
+  second: 28
+- first: 32
+  second: 44
+- first: 16
+  second: 31
+- first: 16
+  second: 32
+- first: 16
+  second: 38
+- first: 16
+  second: 50
+- first: 1
+  second: 7
+- first: 33
+  second: 39
+- first: 33
+  second: 42
+- first: 33
+  second: 43
+- first: 17
+  second: 29
+- first: 33
+  second: 45
+- first: 1
+  second: 15
+- first: 17
+  second: 32
+- first: 1
+  second: 17
+- first: 1
+  second: 18
+- first: 17
+  second: 34
+- first: 1
+  second: 19
+- first: 17
+  second: 35
+- first: 1
+  second: 20
+- first: 17
+  second: 36
+- first: 17
+  second: 37
+- first: 17
+  second: 38
+- first: 17
+  second: 46
+- first: 17
+  second: 47
+- first: 34
+  second: 40
+- first: 2
+  second: 10
+- first: 34
+  second: 42
+- first: 2
+  second: 11
+- first: 34
+  second: 43
+- first: 2
+  second: 12
+- first: 18
+  second: 28
+- first: 18
+  second: 29
+- first: 34
+  second: 45
+- first: 18
+  second: 30
+- first: 18
+  second: 31
+- first: 18
+  second: 35
+- first: 18
+  second: 50
+- first: 19
+  second: 23
+- first: 35
+  second: 39
+- first: 35
+  second: 41
+- first: 19
+  second: 28
+- first: 19
+  second: 31
+- first: 3
+  second: 16
+- first: 3
+  second: 18
+- first: 3
+  second: 20
+- first: 19
+  second: 36
+- first: 3
+  second: 21
+- first: 3
+  second: 22
+- first: 3
+  second: 24
+- first: 3
+  second: 25
+- first: 3
+  second: 26
+- first: 3
+  second: 34
+- first: 19
+  second: 50
+- first: 36
+  second: 39
+- first: 36
+  second: 44
+- first: 20
+  second: 30
+- first: 4
+  second: 17
+- first: 4
+  second: 19
+- first: 4
+  second: 20
+- first: 20
+  second: 36
+- first: 4
+  second: 21
+- first: 4
+  second: 22
+- first: 20
+  second: 38
+- first: 4
+  second: 24
+- first: 20
+  second: 41
+- first: 20
+  second: 42
+- first: 4
+  second: 27
+- first: 20
+  second: 45
+- first: 20
+  second: 46
+- first: 20
+  second: 48
+- first: 4
+  second: 33
+- first: 20
+  second: 49
+- first: 37
+  second: 39
+- first: 5
+  second: 12
+- first: 5
+  second: 18
+- first: 5
+  second: 19
+- first: 21
+  second: 35
+- first: 5
+  second: 21
+- first: 21
+  second: 37
+- first: 21
+  second: 40
+- first: 5
+  second: 25
+- first: 21
+  second: 42
+- first: 5
+  second: 27
+- first: 21
+  second: 43
+- first: 21
+  second: 44
+- first: 21
+  second: 45
+- first: 21
+  second: 46
+- first: 21
+  second: 47
+- first: 21
+  second: 48
+- first: 21
+  second: 49
+- first: 5
+  second: 34
+- first: 38
+  second: 43
+- first: 22
+  second: 31
+- first: 6
+  second: 17
+- first: 6
+  second: 18
+- first: 6
+  second: 19
+- first: 22
+  second: 35
+- first: 6
+  second: 22
+- first: 6
+  second: 24
+- first: 6
+  second: 25
+- first: 6
+  second: 26
+- first: 22
+  second: 42
+- first: 22
+  second: 43
+- first: 22
+  second: 45
+- first: 22
+  second: 46
+- first: 22
+  second: 47
+- first: 22
+  second: 48
+- first: 7
+  second: 12
+- first: 23
+  second: 35
+- first: 7
+  second: 24
+- first: 23
+  second: 40
+- first: 7
+  second: 25
+- first: 23
+  second: 42
+- first: 7
+  second: 27
+- first: 23
+  second: 43
+- first: 23
+  second: 44
+- first: 23
+  second: 45
+- first: 23
+  second: 46
+- first: 23
+  second: 47
+- first: 23
+  second: 48
+- first: 23
+  second: 49
+- first: 7
+  second: 34
+- first: 8
+  second: 17
+- first: 24
+  second: 35
+- first: 8
+  second: 21
+- first: 8
+  second: 22
+- first: 8
+  second: 23
+- first: 24
+  second: 40
+- first: 24
+  second: 42
+- first: 8
+  second: 27
+- first: 8
+  second: 28
+- first: 24
+  second: 44
+- first: 24
+  second: 45
+- first: 24
+  second: 46
+- first: 24
+  second: 47
+- first: 24
+  second: 48
+- first: 8
+  second: 33
+- first: 8
+  second: 50
+- first: 9
+  second: 21
+- first: 9
+  second: 22
+- first: 25
+  second: 38
+- first: 9
+  second: 24
+- first: 25
+  second: 40
+- first: 25
+  second: 41
+- first: 9
+  second: 26
+- first: 25
+  second: 42
+- first: 9
+  second: 27
+- first: 9
+  second: 28
+- first: 9
+  second: 29
+- first: 25
+  second: 46
+- first: 25
+  second: 47
+- first: 25
+  second: 48
+- first: 9
+  second: 33
+- first: 25
+  second: 49
+- first: 9
+  second: 34
+- first: 9
+  second: 36
+- first: 9
+  second: 38
+- first: 9
+  second: 50
+- first: 10
+  second: 20
+- first: 10
+  second: 21
+- first: 10
+  second: 22
+- first: 10
+  second: 23
+- first: 26
+  second: 39
+- first: 26
+  second: 40
+- first: 26
+  second: 41
+- first: 26
+  second: 42
+- first: 26
+  second: 43
+- first: 10
+  second: 28
+- first: 10
+  second: 29
+- first: 26
+  second: 45
+- first: 26
+  second: 46
+- first: 26
+  second: 47
+- first: 10
+  second: 32
+- first: 10
+  second: 33
+- first: 10
+  second: 34
+- first: 11
+  second: 19
+- first: 27
+  second: 35
+- first: 11
+  second: 22
+- first: 27
+  second: 40
+- first: 11
+  second: 25
+- first: 11
+  second: 27
+- first: 27
+  second: 44
+- first: 11
+  second: 29
+- first: 27
+  second: 45
+- first: 27
+  second: 46
+- first: 27
+  second: 47
+- first: 11
+  second: 32
+- first: 11
+  second: 33
+- first: 12
+  second: 23
+- first: 28
+  second: 39
+- first: 28
+  second: 40
+- first: 28
+  second: 41
+- first: 28
+  second: 42
+- first: 12
+  second: 28
+- first: 28
+  second: 44
+- first: 12
+  second: 29
+- first: 28
+  second: 45
+- first: 12
+  second: 30
+- first: 28
+  second: 46
+- first: 12
+  second: 31
+- first: 12
+  second: 32
+- first: 12
+  second: 33
+- first: 12
+  second: 36
+- first: 12
+  second: 38
+- first: 13
+  second: 18
+- first: 12
+  second: 50
+- first: 29
+  second: 39
+- first: 29
+  second: 40
+- first: 29
+  second: 41
+- first: 29
+  second: 42
+- first: 13
+  second: 32
+- first: 29
+  second: 48
+- first: 13
+  second: 33
+- first: 29
+  second: 49
+- first: 13
+  second: 36
+- first: 13
+  second: 38
+- first: 30
+  second: 37
+- first: 14
+  second: 22
+- first: 30
+  second: 40
+- first: 30
+  second: 43
+- first: 14
+  second: 28
+- first: 30
+  second: 44
+- first: 14
+  second: 29
+- first: 30
+  second: 47
+- first: 14
+  second: 32
+- first: 14
+  second: 33
+- first: 14
+  second: 38
+- first: 14
+  second: 50
+- first: 31
+  second: 37
+- first: 31
+  second: 40
+- first: 31
+  second: 41
+- first: 31
+  second: 44
+- first: 15
+  second: 29
+- first: 15
+  second: 30
+- first: 15
+  second: 31
+- first: 15
+  second: 33
+- first: 15
+  second: 34
+- first: 15
+  second: 35
+- first: 15
+  second: 38
+- first: 15
+  second: 46
+_p_im:
+  1:
+    1: 2
+    2: 8
+    3: 10
+  2:
+    1: 2
+    2: 7
+    3: 9
+  3:
+    1: 3
+    2: 9
+    3: 10
+  4:
+    1: 4
+    2: 6
+    3: 10
+  5:
+    1: 5
+    2: 7
+    3: 8
+  6:
+    1: 5
+    2: 6
+    3: 9
+  7:
+    1: 5
+    2: 6
+    3: 9
+  8:
+    1: 1
+    2: 3
+    3: 5
+  9:
+    1: 1
+    2: 2
+    3: 6
+  10:
+    1: 3
+    2: 7
+    3: 8
+  11:
+    1: 3
+    2: 8
+    3: 9
+  12:
+    1: 5
+    2: 6
+    3: 10
+  13:
+    1: 1
+    2: 1
+    3: 5
+  14:
+    1: 2
+    2: 9
+    3: 10
+  15:
+    1: 1
+    2: 6
+    3: 10
+  16:
+    1: 3
+    2: 3
+    3: 10
+  17:
+    1: 5
+    2: 6
+    3: 9
+  18:
+    1: 2
+    2: 6
+    3: 6
+  19:
+    1: 2
+    2: 5
+    3: 8
+  20:
+    1: 3
+    2: 6
+    3: 6
+  21:
+    1: 4
+    2: 5
+    3: 9
+  22:
+    1: 2
+    2: 3
+    3: 5
+  23:
+    1: 4
+    2: 9
+    3: 9
+  24:
+    1: 5
+    2: 6
+    3: 8
+  25:
+    1: 1
+    2: 8
+    3: 9
+  26:
+    1: 2
+    2: 8
+    3: 10
+  27:
+    1: 5
+    2: 6
+    3: 7
+  28:
+    1: 1
+    2: 4
+    3: 7
+  29:
+    1: 1
+    2: 3
+    3: 6
+  30:
+    1: 7
+    2: 8
+    3: 8
+  31:
+    1: 2
+    2: 3
+    3: 10
+  32:
+    1: 2
+    2: 2
+    3: 3
+  33:
+    1: 3
+    2: 7
+    3: 8
+  34:
+    1: 1
+    2: 3
+    3: 4
+  35:
+    1: 7
+    2: 9
+    3: 10
+  36:
+    1: 2
+    2: 6
+    3: 9
+  37:
+    1: 6
+    2: 10
+    3: 10
+  38:
+    1: 1
+    2: 4
+    3: 9
+  39:
+    1: 1
+    2: 5
+    3: 9
+  40:
+    1: 4
+    2: 6
+    3: 9
+  41:
+    1: 4
+    2: 6
+    3: 7
+  42:
+    1: 1
+    2: 3
+    3: 4
+  43:
+    1: 2
+    2: 3
+    3: 3
+  44:
+    1: 3
+    2: 4
+    3: 10
+  45:
+    1: 5
+    2: 7
+    3: 10
+  46:
+    1: 1
+    2: 3
+    3: 5
+  47:
+    1: 4
+    2: 5
+    3: 9
+  48:
+    1: 3
+    2: 5
+    3: 9
+  49:
+    1: 3
+    2: 3
+    3: 8
+  50:
+    1: 6
+    2: 7
+    3: 8
+_card_R: 2
+_card_N: 2
