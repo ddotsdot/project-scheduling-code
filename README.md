@@ -13,6 +13,11 @@ before March 14, 2023.
 
 A preprint version is also available on [arxiv.org](https://arxiv.org/). [![arXiv](https://img.shields.io/badge/arXiv-2301.04700-b31b1b.svg)](http://arxiv.org/abs/2301.04700)
 
+## Download Benchmark Instances
+
+If you are interested to download the benchmark data sets that I used in my work, simply follow this [link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ddotsdot/project-scheduling-code/tree/master/src/test/resources/instances&fileName=datasets&rootDirectory=false) to get a zip-archive with all data sets.
+In case you want to use any of my derived data sets (`c15_d, j20_d, J50_d`) in your own work, please _cite this paper_ ([BibTeX](https://www.doi2bib.org/bib/10.1016/j.cor.2023.106147)).  
+
 ## Optimization Tools
 
 * __*jDecOR*__ ([0.4.0](https://maven.optimal-solution.org/service/rest/repository/browse/releases/org/optsol/jdecor/)) <br>
